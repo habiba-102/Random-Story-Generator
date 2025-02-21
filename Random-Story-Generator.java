@@ -43,6 +43,9 @@ public class StoryGenerator {
         Random random = new Random();
 
         // Add action listener to the button
+        
+        ///////????????????????/////////
+        
         generateButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
